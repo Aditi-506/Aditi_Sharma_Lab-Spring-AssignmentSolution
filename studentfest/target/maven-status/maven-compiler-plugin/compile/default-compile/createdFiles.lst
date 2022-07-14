@@ -1,0 +1,13 @@
+com\greatlearning\StudentfestApplication.class
+com\greatlearning\ServletInitializer.class
+com\greatlearning\security\MyUserDetails.class
+com\greatlearning\service\StudentService.class
+com\greatlearning\security\WebSecurityConfig.class
+com\greatlearning\service\StudentServiceImpl.class
+com\greatlearning\entity\User.class
+com\greatlearning\repository\UserRepository.class
+com\greatlearning\controller\StudentController.class
+com\greatlearning\entity\Role.class
+com\greatlearning\entity\Student.class
+com\greatlearning\service\UserDetailsServiceImpl.class
+com\greatlearning\repository\StudentRepository.class
